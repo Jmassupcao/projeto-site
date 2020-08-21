@@ -10,12 +10,19 @@ body{
 
 main{
     background-color: rgba(19, 19, 19, 0.664);
-    width: 500px;
+    width: 650px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.329);
 }
 
-img.foot{
-    float: left;
+hr{
+    border-color: rgba(19, 19, 19, 0.664);
+}
+
+a{
+    font-size: large;
+    text-decoration: none;
+    color: black;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.37);
 }
